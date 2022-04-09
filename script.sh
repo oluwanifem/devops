@@ -20,5 +20,5 @@ echo "1. Create a user"
 echo "2. Create a group"
 echo "3. Create a file"
 echo "4. Create a folder"
-ecgo "5. Create a wesever"
+echo "5. Create a websever"
 #Write a case state that will perfom any action that the user picks
