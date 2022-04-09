@@ -4,7 +4,7 @@ echo "Welcome to scripting lifestyle"
 echo
 echo
 sleep 5
-echo "If you like i can creat a user with a folder for you"
+echo "If you like I can create a user with a folder for you"
 sleep 2 
 echo
 echo
@@ -21,4 +21,10 @@ echo "2. Create a group"
 echo "3. Create a file"
 echo "4. Create a folder"
 echo "5. Create a websever"
+read option
+sleep 2
+echo "You have selected option $option "
+echo
+echo
+echo "I will go ahead and make you wishes come through"
 #Write a case state that will perfom any action that the user picks
