@@ -9,7 +9,7 @@ sleep 2
 echo
 echo
 echo "Would you like me to go ahead and create a personal user for you"
-read ans
+#read ans
 #Write an if statement if the ans is yes continue if the answer is no quit
 echo "Thanks for using my services"
 echo
@@ -21,7 +21,7 @@ echo "2. Create a group"
 echo "3. Create a file"
 echo "4. Create a folder"
 echo "5. Create a websever"
-read option
+#read option
 sleep 2
 echo "You have selected option $option "
 echo
