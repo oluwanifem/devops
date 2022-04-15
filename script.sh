@@ -28,7 +28,7 @@ echo
 echo
 echo "I will go ahead and make you wishes come through"
 #Write a case state that will perfom any action that the user picks
-echo Will you like to make anither trasaction?
+echo Will you like to make another trasaction?
 echo
 echo
 echo done!!
